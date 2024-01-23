@@ -20,6 +20,7 @@ footer {
 
 .article-container {
   margin: auto;
+  
 }
 
 .card {
@@ -74,3 +75,10 @@ footer {
   float: left;
 }
 
+
+
+body {background-color: black;
+     color: white;
+    }
+.card {color: red;
+      }
