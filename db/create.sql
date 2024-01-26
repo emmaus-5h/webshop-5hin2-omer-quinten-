@@ -24,6 +24,6 @@ insert into products (name, description, code, price) values ('Adidas x Crazyfas
 insert into products (name, description, code, price) values ('Adidas - Predator Edge.3 FG J - Zwart', 'Nulla ut erat id mauris vulputate elementum. Nullam varius.', '077030122-3', 11);
 insert into products (name, description, code, price) values ('Adidas x Crazyfast.3 FG Voetbalschoenen', 'Pellentesque at nulla. Suspendisse potenti.', '445924201-X', 13.5);
 insert into products (name, description, code, price) values ('Nike Men zoom Mercurial Superfly 9 Pro FG Voetbalschoenen', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.', '693155505-7', 13.5);
-insert into products (name, description, code, price) values ('Kiss for Corliss, A (Almost a Bride)', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', '686928463-6', 14);
-insert into products (name, description, code, price) values ('Velvet Goldmine', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.', '492662523-7', 14);
+insert into products (name, description, code, price) values ('Nike - Phantom GX Academy FG/MG - Zwart)', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', '686928463-6', 14);
+insert into products (name, description, code, price) values ('Adidas Predator 24 League Low Multi-Ground Voetbalschoenen', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.', '492662523-7', 14);
 
