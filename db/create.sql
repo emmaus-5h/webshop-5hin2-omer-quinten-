@@ -2,6 +2,10 @@
 -- create tables
 --
 
+-- feedback GEE 30 jan 2024
+-- hou je aan het stappenplan: maak eerst nieuwe tabellen, daarna pas nieuwe inserts (anders moet je alles meerder keren aanpassen)
+-- bekijk video 4 over hoe je tabellen toe kunt voegen als je niet weet hoe dat moet
+
 CREATE TABLE products (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   code VARCHAR(15),
