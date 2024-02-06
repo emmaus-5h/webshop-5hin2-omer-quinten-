@@ -203,3 +203,24 @@ for help almost 24x7 with many questions and problems and providing basic shop c
 
 
 
+aantekeningen api en web
+uitleg vid api nr:5
+uitleg video web:nr 6
+api
+app.get('/api/products', getProducts)
+staat dat je in Getproducts de code vindt als je api/products opvraagt
+in getProducts vind je de query
+const sqlOpdracht = db.prepare('SELECT products.id AS id, products.name AS name, products.description AS description, products.code AS code, products.price AS price FROM products ORDER BY id ASC')
+Deze query moet je aanpassen let op gebruik altijd AS om de velden een naam te geven 
+velden uit je products tabel die je zelf gemaakt hebt kun je toevoegen
+je kunt ook join gebruiken om 1:n relaties toe te voegen
+
+web
+zie web/index.html
+het template <!-- template for product info-->
+wordt gekopieerd voor elk artikel
+dus alle info die je wilt toevoegen daarvoor moet je in je template een plek toevoegen
+
+in het script voeg je de waarden uit de api toe aan de webpagina
+doe dat onder 
+ // voeg product toe aan DOM, 
