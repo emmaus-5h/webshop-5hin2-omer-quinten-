@@ -206,6 +206,7 @@ for help almost 24x7 with many questions and problems and providing basic shop c
 aantekeningen api en web
 uitleg vid api nr:5
 uitleg video web:nr 6
+
 api
 app.get('/api/products', getProducts)
 staat dat je in Getproducts de code vindt als je api/products opvraagt
