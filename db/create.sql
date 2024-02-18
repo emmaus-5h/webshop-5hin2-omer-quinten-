@@ -22,11 +22,6 @@ CREATE TABLE ratings (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   name VARCHAR(255)
 );
-
-CREATE TABLE platforms (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  name VARCHAR(255)
-);
   
 CREATE TABLE Merk (
 id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -69,10 +64,6 @@ insert into ratings (name) values ('4 sterren');
 insert into ratings (name) values ('3 sterren');
 insert into ratings (name) values ('2 sterren');
 insert into ratings (name) values ('1 ster');
-  
-insert into platforms (name) values ('d');
-insert into platforms (name) values ('e');
-insert into platforms (name) values ('f');
 
 insert into Merk (name) values ('Nike');
 insert into Merk (name) values ('Adidas');
